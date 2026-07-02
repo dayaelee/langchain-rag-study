@@ -1,1 +1,1 @@
-# -langchain-rag-study
+# langchain-rag-study
